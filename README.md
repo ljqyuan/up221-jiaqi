@@ -9,15 +9,15 @@ migration | public space | community-engaged planning | aging and urban design |
 
 ## Project ideas
 
-* visualizing housing inequalities among population especially migrant/vulnerable groups
-* visualizing evolution of urban landscape / gentrification and shifting of demographics
-* visualizing denstiy of services/mix-use of land and vulnerable population (youth, aging population, migrants, etc.)
-* open to more ideas about vulnerable population, urban sustainability, pedestrian-oriented design...
+* visualizing housing inequalities among the population especially migrant/vulnerable groups
+* visualizing the evolution of urban landscape/gentrification and shifting of demographics
+* visualizing density of services/mix-use of land and vulnerable population (youth, aging population, migrants, etc.)
+* open to more ideas about vulnerable populations, urban sustainability, pedestrian-oriented design...
 
 ## Course objectives
 
 * Learn how to get valid and effective data from abundant information about cities
-* Learn solid coding techniques to pruduce maps, charts, and other visual/interactive stuff
+* Learn solid coding techniques to produce maps, charts, and other visual/interactive stuff
 * Learn how to build related convincing models
 
 Excited to learn and work with y'all! :heart:
